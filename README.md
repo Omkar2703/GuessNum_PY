@@ -1,4 +1,4 @@
-#Creating A Guessing Game In Python
+# Creating A Guessing Game In Python
 
 Today we are going to make an interactive guessing game in Python.
 
@@ -12,8 +12,8 @@ This is how the game looks in action,
 
 ![image](https://user-images.githubusercontent.com/109729083/212252231-30653880-db27-429e-be62-868b5ee94a24.png)
 
-#Creator: Omkar Patil
+# Creator: Omkar Patil
 
-#Know More:  https://omkar2703.github.io/MYPORT/
+*Know More:  https://omkar2703.github.io/MYPORT/
 
-#Contact: omkar.ptl556@gmail.com
+*Contact: omkar.ptl556@gmail.com
